@@ -9,7 +9,7 @@ def name=(dogs_name)
   end   
 end 
 
-lassie = Dog.new 
-lassie.new = "Lassie"
+dog_name = Dog.new 
+dogs_name.new = "Lassie"
 
-puts lassie.name 
+puts lassie.dogs_name 
