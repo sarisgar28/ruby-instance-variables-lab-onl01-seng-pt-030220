@@ -6,3 +6,7 @@ def name= (dog_name)
   end 
 end   
 
+class name 
+ lassie = Dog.new 
+ lassie.name = lassie 
+end 
